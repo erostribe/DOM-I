@@ -60,3 +60,5 @@ textContentList[2].getElementsByTagName("h4")[0].innerHTML = siteContent["main-c
 textContentList[2].getElementsByTagName("p")[0].innerHTML = siteContent["main-content"]["services-content"];
 textContentList[3].getElementsByTagName("h4")[0].innerHTML = siteContent["main-content"]["product-h4"];
 textContentList[3].getElementsByTagName("p")[0].innerHTML = siteContent["main-content"]["product-content"];
+textContentList[4].getElementsByTagName("h4")[0].innerHTML = siteContent["main-content"]["vision-h4"];
+textContentList[4].getElementsByTagName("p")[0].innerHTML = siteContent["main-content"]["vision-content"];
